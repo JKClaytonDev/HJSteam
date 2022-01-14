@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e4f10b95425400946bf187378780d947
+  - enabled: 1
+    path: Assets/Scenes/FLevel1.unity
+    guid: 2f70e018b3006d442a1d6c68ae816c0a
+  - enabled: 1
+    path: Assets/Scenes/FLevel1.5.unity
+    guid: c4e7fffab449c5e4fac6899ac99d3bad
+  - enabled: 0
+    path: Assets/Scenes/CLevel1.unity
+    guid: 507e940774099844a820ceef3363fa6f
+  - enabled: 1
+    path: Assets/Scenes/FLevel2.unity
+    guid: 7f653526642250d489a27c0772393fd9
+  - enabled: 0
+    path: Assets/Scenes/MLevel1.unity
+    guid: 721b8ff51e7f98842a58c06c742a61ce
+  - enabled: 1
+    path: Assets/Scenes/FLevel3.unity
+    guid: bdf60fa4cf06a524c9491b59fac63bdb
+  - enabled: 1
+    path: Assets/Scenes/FLevel4.unity
+    guid: 242a2fa08ea3e964582c5ddebd32ad0d
+  - enabled: 0
+    path: Assets/Scenes/MLevel2.unity
+    guid: 80c2aad3a9727764e9ff25a3956e8c33
+  - enabled: 1
+    path: Assets/Scenes/FLevel5.unity
+    guid: a453e60ec6616444b96cb0d59c451d40
+  - enabled: 1
+    path: Assets/Scenes/FLevel6.unity
+    guid: a6be2716429adab4e8c594cdc216a08b
+  - enabled: 1
+    path: Assets/Scenes/FLevel7.unity
+    guid: 78c8e201b11b3f442bd043dc8b70f5dc
+  - enabled: 1
+    path: Assets/Scenes/MLevel3.unity
+    guid: 6d7cf99a31d3ab14c852d873b715936c
+  m_configObjects: {}

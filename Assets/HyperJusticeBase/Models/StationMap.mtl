@@ -1,0 +1,10 @@
+newmtl Mat2
+map_Kd Bricks.png
+Kd 1 1 1
+d 1
+
+newmtl PoliceFloor
+map_Kd Tiles.png
+Kd 1 1 1
+d 1
+
