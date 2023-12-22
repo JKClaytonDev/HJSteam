@@ -92,6 +92,8 @@ public class RobotController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        PlayerPrefs.SetInt("CliveFPS", 0);
+        PlayerPrefs.Save();
         if (!partner && PlayerPrefs.GetInt("CliveFPS") == 1)
         {
             Camera.main.enabled = false;
